@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254110063014",
+    "firebase_url": "https://notepad-1de92-default-rtdb.firebaseio.com",
+    "project_id": "notepad-1de92",
+    "storage_bucket": "notepad-1de92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254110063014:android:e836d845447bb6500e9767",
+        "android_client_info": {
+          "package_name": "com.cyfotech.secure_notepad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254110063014-k5o7l7k3qvf4vgkcavfc23hhpc8uoihg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyfotech.secure_notepad",
+            "certificate_hash": "2a717d14c96a38a0c92ce1a10c64eae4b5a0037b"
+          }
+        },
+        {
+          "client_id": "254110063014-n71k6630t2ie7c911de407tn1k61390s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvBgy0j8x4gDFsMrAcZaefaMrq-07mc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254110063014-n71k6630t2ie7c911de407tn1k61390s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
